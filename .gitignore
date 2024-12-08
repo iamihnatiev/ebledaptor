@@ -24,3 +24,6 @@ Thumbs.db
 
 # Folder config file
 [Dd]esktop.ini
+
+# Python virtual environment
+.venv
